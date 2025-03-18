@@ -327,7 +327,7 @@
             "revisionRate": 13.9,
             "timelinessScore": 92,
             "efficiencyScore": 89,
-            "accuracyScore": 86.1,
+            "accuracyScore": 86,
             "qualityScore": 91,
             "notes": "Highly efficient, low revision rate.",
             "costPerCase": {
