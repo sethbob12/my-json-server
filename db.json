@@ -611,7 +611,7 @@
         {
           "snapshotDate": "2025-02-20T12:34:56Z",
           "totalCases": 205,
-          "casesPast30Days": 36,
+          "casesPast30Days": 96,
           "casesPast60Days": 75,
           "clientRevisionsWeek": 4,
           "clientRevisionsMonth": 12,
@@ -677,7 +677,7 @@
         {
           "snapshotDate": "2025-02-20T12:34:56Z",
           "totalCases": 225,
-          "casesPast30Days": 32,
+          "casesPast30Days": 132,
           "casesPast60Days": 68,
           "clientRevisionsWeek": 2,
           "clientRevisionsMonth": 9,
@@ -1044,7 +1044,7 @@
       {
         "snapshotDate": "2025-03-09T12:34:56Z",
         "totalCases": 225,
-        "casesPast30Days": 37,
+        "casesPast30Days": 137,
         "casesPast60Days": 72,
         "clientRevisionsWeek": 3,
         "clientRevisionsMonth": 10,
@@ -1205,7 +1205,7 @@
       {
         "snapshotDate": "2025-02-20T12:34:56Z",
         "totalCases": 310,
-        "casesPast30Days": 58,
+        "casesPast30Days": 108,
         "casesPast60Days": 115,
         "clientRevisionsWeek": 7,
         "clientRevisionsMonth": 17,
